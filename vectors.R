@@ -8,16 +8,15 @@ modules <- c("BU2010", "xxx")
 
 book_costs <-
 
-  
+
 # Set modules as the names of book_costs.
-  
+
 names(
-  
+
   
 # Display book_costs
   
-  
-  
+
 
 
 

@@ -4,13 +4,13 @@
 
 ### Overview
 
-This week you get to work with R outside the DataCamp environment. 
+This week you get to work again with R. You will create a vector. 
 
 ### Editing
 
 You can create documents and edit them directly in GitHub's web interface. This is a very convenient way of creating and editing the files. 
 
-In most cases, the preferred way of working is to create and edit the files on your own machine in RStudio. To get the files to your own computer use GitHub Desktop. The use of GitHub Desktop was explained in class. 
+In most cases, the preferred way of working is to create and edit the files on your own machine in RStudio. To get the files to your own computer use GitHub Desktop. How to use GitHub Desktop was explained in a previous class. 
 
 
 ## Advice
@@ -24,21 +24,14 @@ It's best if you **Commit early, commit often** - that way you can go back if yo
 
 Below is today's task. We will be working with R. 
 
-You have to work on this task by yourself, i.e. this is not group work. 
-
-If you want to have another look at what we did in last week's class you can [watch parts of the first R class on YouTube](https://youtu.be/UoAGqb1J4FQ) (you  can even turn on subtitles).
-
-For this task, you need to provide the answers in the file you are currently reading. It is a Markdown file. More explanations about the Markdown syntax can be found [on GitHub's Mastering Markdown page](https://guides.github.com/features/mastering-markdown/).
-
-* Under the heading _Your Task_ you will find several questions. 
-* Use R or R Studio to find and test the right answers, then add them to the _Your Task_ section of this document.
+For this task, you need to provide the answers in the vectors.R file you will find in this repository, not in the Markdown file you are currently reading. 
 
 
 ## Your Task
 
 Your tasks can be found in the R script file _vectors.R_ that is part of this repository. You have to work on these tasks by yourself. Do not work with others. 
 
-Please work on these tasks in RStudio - not on the GitHub website. If you work in RStudio you can make test whether your code works as it should.
+Please work on these tasks in RStudio - not on the GitHub website. If you work in RStudio you can make sure your code works as it should. If you don't work in RStudio, but edit the file on the GitHub web interface you will have to copy and paste the code into R for testing - an unnecessary step that can introduce mistakes. 
 
 Pay attention to the autocomplete options RStudio is offering you and use them to explore how R commands work. Also, remember how useful the cursor keys and the Tab key can be. 
 Pressing F1 will bring up the documentation for the selected command in the Help tab. 
